@@ -155,6 +155,7 @@ ext {
 		"ec.com.ishida.erp:ishida-cliente-erp":"1.0.0.SNAPSHOT",
 		"com.microsoft.sqlserver:sqljdbc4":"4.0",
 		"org.slf4j:slf4j-api":"1.7.5",
-		"org.slf4j:slf4j-parent":"1.7.5"
+		"org.slf4j:slf4j-parent":"1.7.5",
+		"postgresql:postgresql:9.1-901.jdbc4"
   ]
 }
