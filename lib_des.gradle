@@ -11,6 +11,7 @@ ext {
   		"ec.com.ishida.erp:ln-facturacion":"${erpVersion}",
 		"ec.com.ishida.erp:ln-administracion":"${erpVersion}",
 		"ec.com.ishida.erp:ws-administracion":"${erpVersion}",
+		"ec.com.ishida.erp:ln-logUtil":"${erpVersion}",
 		//Dependencias externas
 		"org.springframework.ws:spring-ws-core":"2.0.4.RELEASE",
 		"org.apache.geronimo.specs:geronimo-stax-api_1.0_spec":"1.0.1",
