@@ -11,6 +11,8 @@ ext {
   		"ec.com.ishida.erp:ln-facturacion":"${erpVersion}",
 		"ec.com.ishida.erp:ln-administracion":"${erpVersion}",
 		"ec.com.ishida.erp:ws-administracion":"${erpVersion}",
+		"ec.com.ishida.erp:ln-transaccion":"${erpVersion}",
+		"ec.com.ishida.erp:ws-transaccion":"${erpVersion}",
 		"ec.com.ishida.erp:ln-logUtil":"${erpVersion}",
 		//Dependencias externas
 		"org.springframework.ws:spring-ws-core":"2.0.4.RELEASE",
